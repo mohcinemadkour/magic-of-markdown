@@ -1,7 +1,7 @@
 ---
 title: "The Magic of Markdown"
-author: "Ted Laderas (laderast@ohsu.edu)"
-date: "October 27, 2017"
+author: "Mohcine Madkour (mohcine.madkour@gmail.com)"
+date: "October 7, 2018"
 output:
   slidy_presentation: default
 ---
@@ -21,7 +21,7 @@ output:
 
 ## Where are These Slides?
 
-https://laderast.github.io/magic-of-markdown
+https://mohcinemadkour.github.io/magic-of-markdown
 
 ## What is Markdown?
 
@@ -331,7 +331,7 @@ You can also use the following command to render a document. Make sure your YAML
 
 ## Rstudio/Markdown Example:
 
-Open this file in RStudio: http://github.com/laderast/magic-of-markdown/Rmarkdown-example.Rmd
+Open this file in RStudio: http://github.com/mohcinemadkour/magic-of-markdown/Rmarkdown-example.Rmd
 
 ## `thesisdown`
 
@@ -353,7 +353,7 @@ One benefit to using Jekyll is that it's a relatively lightweight way to manage 
 
 ## Markdown and GitHub pages
 
-Any markdown file that has an .markdown or .md extension will automatically be processed by GitHub and served as a html. For example: https://github.com/laderast/magic-of-markdown/blob/master/magic-of-markdown.md
+Any markdown file that has an .markdown or .md extension will automatically be processed by GitHub and served as a html. For example: https://github.com/mohcinemadkour/magic-of-markdown/blob/master/magic-of-markdown.md
 
 For more info, please refer to our [GitHub Pages tutorial](https://github.com/BioData-Club/githubPagesTutorial)
 
@@ -365,7 +365,7 @@ https://github.com/rstudio/blogdown
 
 ## For More Info
 
-  * This document: http://laderast.github.io/magic-of-markdown/
+  * This document: http://mohcinemadkour.github.io/magic-of-markdown/
   * Pandoc user guide: http://pandoc.org/README.html
   * Pandoc and Zotero: [pandoc-zotero/notes.md](pandoc-zotero/notes.md)
   * Rmarkdown: http://rmarkdown.rstudio.com

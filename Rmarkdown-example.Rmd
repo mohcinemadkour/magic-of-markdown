@@ -1,6 +1,6 @@
 ---
 title: "Rmarkdown example"
-author: "Ted Laderas"
+author: "Mohcine Madkour"
 date: "January 14, 2016"
 output:
   pdf_document: default
